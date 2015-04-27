@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.sveil.doc.osx</groupId>
+	<artifactId>doc-osx</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0.0-SNAPSHOT</version>
+	<name>doc-osx</name>
+	<description>document of osx project</description>
+
+	<modules>
+		<module>utility</module>
+	</modules>
+
+	<issueManagement>
+		<system>github</system>
+		<url>https://github.com/boy12371/doc_osx/issues</url>
+	</issueManagement>
+	<scm>
+		<url>https://github.com/boy12371/doc-osx</url>
+		<connection>https://github.com/boy12371/doc_osx.git</connection>
+	</scm>
+	<developers>
+		<developer>
+			<name>Richard(Kuang)</name>
+			<id>richard.kuang</id>
+			<email>348350530(AT)qq.com</email>
+			<roles>
+				<role>Developer</role>
+			</roles>
+			<timezone>+8</timezone>
+		</developer>
+	</developers>
+</project>
